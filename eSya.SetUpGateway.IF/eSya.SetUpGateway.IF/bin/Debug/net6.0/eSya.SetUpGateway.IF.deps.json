@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eSya.SetUpGateway.IF/1.0.0": {
+        "dependencies": {
+          "eSya.SetUpGateway.DO": "1.0.0"
+        },
+        "runtime": {
+          "eSya.SetUpGateway.IF.dll": {}
+        }
+      },
+      "eSya.SetUpGateway.DO/1.0.0": {
+        "runtime": {
+          "eSya.SetUpGateway.DO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eSya.SetUpGateway.IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eSya.SetUpGateway.DO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

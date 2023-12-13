@@ -1,0 +1,12 @@
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\bin\Debug\net6.0\eSya.SetUpGateway.DO.deps.json
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\bin\Debug\net6.0\eSya.SetUpGateway.DO.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\bin\Debug\net6.0\eSya.SetUpGateway.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.csproj.AssemblyReference.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\refint\eSya.SetUpGateway.DO.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\eSya.SetUpGateway.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DO\eSya.SetUpGateway.DO\obj\Debug\net6.0\ref\eSya.SetUpGateway.DO.dll

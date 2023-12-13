@@ -1,0 +1,15 @@
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.IF.deps.json
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.IF.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.csproj.AssemblyReference.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\refint\eSya.SetUpGateway.IF.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\ref\eSya.SetUpGateway.IF.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.DO.dll
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.csproj.CopyComplete
