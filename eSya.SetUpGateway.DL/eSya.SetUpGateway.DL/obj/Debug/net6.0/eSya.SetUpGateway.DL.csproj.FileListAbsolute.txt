@@ -17,3 +17,4 @@ D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DL\eSya.
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DL\eSya.SetUpGateway.DL\obj\Debug\net6.0\eSya.SetUpGateway.DL.csproj.CopyComplete
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DL\eSya.SetUpGateway.DL\bin\Debug\net6.0\eSya.SetUpGateway.DL.runtimeconfig.json
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DL\eSya.SetUpGateway.DL\obj\Debug\net6.0\eSya.SetUpGateway.DL.genruntimeconfig.cache
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.DL\eSya.SetUpGateway.DL\obj\Debug\net6.0\eSya.SetUpGateway.DL.sourcelink.json

@@ -13,3 +13,4 @@ D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.DO.dll
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\bin\Debug\net6.0\eSya.SetUpGateway.DO.pdb
 D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.csproj.CopyComplete
+D:\Projects\eSyaProjects2022\eSya.SetUpGateway.WebAPI\eSya.SetUpGateway.IF\eSya.SetUpGateway.IF\obj\Debug\net6.0\eSya.SetUpGateway.IF.sourcelink.json

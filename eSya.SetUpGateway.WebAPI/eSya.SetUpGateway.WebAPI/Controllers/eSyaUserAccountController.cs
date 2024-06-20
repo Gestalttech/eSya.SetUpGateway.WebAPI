@@ -14,6 +14,8 @@ namespace eSya.SetUpGateway.WebAPI.Controllers
         {
             _userAccountRepository = userAccountRepository;
         }
+
+        #region Used functionality as per new Gateway of Gestalt User
         [HttpGet]
         public async Task<IActionResult> GeteSyaMenulist()
         {
@@ -26,6 +28,9 @@ namespace eSya.SetUpGateway.WebAPI.Controllers
             var ds = await _userAccountRepository.GetFormAction(navigationURL);
             return Ok(ds);
         }
+        #endregion
+
+        #region Not Used later delete after freezed
         [HttpGet]
         public async Task<IActionResult> GetBusinessLocation()
         {
@@ -50,5 +55,6 @@ namespace eSya.SetUpGateway.WebAPI.Controllers
             var ds = await _userAccountRepository.GetApplicationRuleListByProcesssID(processID);
             return Ok(ds);
         }
+        #endregion
     }
 }
